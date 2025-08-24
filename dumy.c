@@ -6,7 +6,7 @@ int main() {
     printf("Enter first number: ");
     scanf("%d", &num1);
 
-    printf("Enter second number and matha: ");
+    printf("Enter second number and matha: anatha er matha  ");
     scanf("%d", &num2);
 
     sum = num1 + num2;
